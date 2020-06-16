@@ -1,0 +1,4 @@
+name: Bookshelf
+version: ${project.version}
+main: io.yamil.bookshelf.Bookshelf
+api-version: 1.13
